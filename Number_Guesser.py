@@ -16,3 +16,4 @@ while g == 0:
             print("You have guessed too low")
     else:
         print("Correct guess... Guessed in "+str(c)+" Times")
+        g=1
